@@ -16,6 +16,7 @@ def third_element(arr)
   arr[2]
 end
 
-def
+def last_element
+  arr[-1]
   
   
