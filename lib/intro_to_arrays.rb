@@ -8,5 +8,7 @@ new_array = [1,2]
 new_array 
 end 
 
-def indexing 
+def first_element(arr) 
+  
+  
   
