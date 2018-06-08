@@ -18,5 +18,6 @@ end
 
 def last_element
   arr[-1]
+end
   
   
