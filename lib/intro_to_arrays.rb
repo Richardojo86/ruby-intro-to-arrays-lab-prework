@@ -30,6 +30,7 @@ end
 
 def length_of_array(arr)
   arr.length
+end 
 
   
   
